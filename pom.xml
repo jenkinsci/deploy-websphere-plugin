@@ -45,7 +45,7 @@
   		<artifactId>com.ibm.ws.webservices.thinclient_6.1.0</artifactId>
   	  	<version>1.0</version>
   	  	<scope>system</scope>  	  	   
-    	<systemPath>${basedir}/../../../was/com.ibm.ws.webservices.thinclient_6.1.0.jar</systemPath>
+    	<systemPath>${basedir}/was/com.ibm.ws.webservices.thinclient_6.1.0.jar</systemPath>
 	</dependency>
 	
 		<dependency>         
@@ -53,7 +53,7 @@
   	<artifactId>com.ibm.ws.admin.client_6.1.0</artifactId>
   	  	<version>1.0</version>
   	  	<scope>system</scope>  	  	   
-    	<systemPath>${basedir}/../../../was/com.ibm.ws.admin.client_6.1.0.jar</systemPath>
+    	<systemPath>${basedir}/was/com.ibm.ws.admin.client_6.1.0.jar</systemPath>
 	</dependency>  
   </dependencies>
 
